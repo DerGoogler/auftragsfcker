@@ -6,4 +6,4 @@
             Sie steht mit keinen Beauftragten in Verbindung.
 
             Mfg
-            das DG Team
+            das GR Team

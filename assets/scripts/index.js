@@ -9,7 +9,7 @@ var featPath = "/features/";
 var isFirstrun = localStorage.getItem("isFirstrun");
 if (isFirstrun === false || isFirstrun === null || isFirstrun === undefined) {
   const checkIN = confirm(
-    "WICHTIG!!\n\nDiese Webseite dient nur zur Unterhaltung! Sie steht mit keinen Auftragsfickern in verbindung.\n\nMfG\ndas DG Team"
+    "WICHTIG!!\n\nDiese Webseite dient nur zur Unterhaltung! Sie steht mit keinen Auftragsfickern in verbindung.\n\nMfG\ndas GR Team"
   );
   if (checkIN) {
     localStorage.setItem("isFirstrun", true);
